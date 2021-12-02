@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ShopBridge.Product.Model/1.0.0": {
+        "runtime": {
+          "ShopBridge.Product.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ShopBridge.Product.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
